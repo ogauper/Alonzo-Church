@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+#colortext{
+    color: blue
+}
+ h1.sansserif {
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ p.serif {
+   font-family: Georgia, serif;
+ }
+ ul.serif {
+   font-family: Georgia, serif;
+ }
+<title>
+CINS 110 Lab 2
+</title>
+</style>
+</head>
+<body style="background-color:DarkGrey" >
+  <h1 class="sansserif">
+  <span style="color:LightSlateGrey">  Alonzo Church </span>
+  </h1>
+<div style="width: 50%" >
+  <div style="float: left; width: 40%" >
+  <span id="colortext">
+  <ul class = "serif">
+  <li> He contributed to the <span style="color:DarkRed"> Church-Turing</span> thesis  </li>
+  <li> He created lambda calculus </li>
+  <li> He earned a PhD in mathematics from Princeton </li>
+  </ul>
+  </span>
+  </div>
+  <span id="colortext">
+  <div style="float: right; width: 35%" >
+  <p class="serif" > Alonzo Church was a mathematician who contributed to mathematical logic and theoretical computer science.
+    Many of his students had exceptional careers, one of whom was<span style = "color:DarkGreen"> Alan Turing</span> . </p>
+   <p class="serif" >
+  <a href="https://en.wikipedia.org/wiki/Alonzo_Church"> Source </a></p>
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a6/Alonzo_Church.jpg" alt="There should be a picture here">
+  </div>
+  </span>
+</div>
+</body>
+</html>
